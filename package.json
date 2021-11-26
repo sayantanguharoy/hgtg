@@ -1,0 +1,28 @@
+{
+  "name": "github2telegram-notifier",
+  "version": "1.0.0",
+  "description": "Uses Github Webhook and Vercel's Serverless Api to Send Updates to Telegram chat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityatelange/github2telegram-notifier.git"
+  },
+  "keywords": [
+    "webhook",
+    "github",
+    "vercel",
+    "telegram"
+  ],
+  "author": {
+    "name": "Aditya Telange",
+    "url": "https://github.com/adityatelange"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityatelange/github2telegram-notifier/issues"
+  },
+  "homepage": "https://github.com/adityatelange/github2telegram-notifier#readme",
+  "dependencies": {
+    "axios": "^0.21.2",
+    "crypto": "^1.0.1"
+  }
+}
